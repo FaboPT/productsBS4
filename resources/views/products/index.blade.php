@@ -29,8 +29,8 @@
     </div>
 
     <div class="card card-success">
-        <div class="card-header">
-        </div>
+       {{-- <div class="card-header">
+        </div>--}}
         <!-- /.box-header -->
         <div class="card-body">
             <table class="table table-bordered table-striped datatables">

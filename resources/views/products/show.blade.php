@@ -21,8 +21,6 @@
     </div>
 
     <div class="card card-success">
-        <div class="card-header"></div>
-        <!-- /.box-header -->
         <div class="card-body">
             <div class="table-responsive">
                 <table class="table table-bordered table-striped">
